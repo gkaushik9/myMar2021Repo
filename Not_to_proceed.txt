@@ -1,0 +1,4 @@
+Since this jenkins file contains references for somebody else's project locations on AWS etc
+and commands that I do not want to run locally. I will abandon this repo here and abandon testing
+it via multibranch-pipeline job (test-multibranch-pipeline) where I have decided to use a diff repo
+location myJan2021Repo.
